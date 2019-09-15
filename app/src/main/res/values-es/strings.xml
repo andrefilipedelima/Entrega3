@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controlador de curso</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="no_gps_no_app">Sin GPS sin aplicación</string>
+    <string name="alredy_permited">Permiso ya otorgado</string>
+    <string name="nedds_permition">Necesita permiso</string>
+    <string name="no_arguments_to_search">No hay argumentos para buscar</string>
+    <string name="Grant_GPS_Permission">Conceder permiso de GPS</string>
+    <string name="Enable_GPS">Habilitar GPS</string>
+    <string name="Turn_off_GPS">Apagar GPS</string>
+    <string name="Start_Route">Iniciar ruta</string>
+    <string name="Stop_Route">Parada ruta</string>
+    <string name="Travelled_distance">Distancia recorrida</string>
+    <string name="Time_traveled">El tiempo viajó</string>
+    <string name="What_do_you_want_to_find">Qué quieres encontrar?</string>
+</resources>
