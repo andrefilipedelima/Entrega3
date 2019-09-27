@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="andrefilipedelima@hotmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ThiagoAcam/fatec_ipi_noite_pojeto_p1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\andre.filipe.de.lima\AndroidStudioProjects" />
   </component>
 </application>
